@@ -7,3 +7,5 @@ CC0:
 - building-cc0:
   - [houseblocks](https://opengameart.org/content/houseblocks)
   - [columns](https://opengameart.org/content/columns-scraps)
+- doors-cc0:
+  - https://opengameart.org/content/doors
