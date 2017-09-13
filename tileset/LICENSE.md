@@ -15,3 +15,5 @@ CC0:
   - [grass1](https://opengameart.org/content/seamless-grass-texture)
   - [grass2](https://opengameart.org/content/seamless-grass-texture-ii)
   - [grass3](https://opengameart.org/content/32x32-grass-tile)
+- signs-cc0:
+  - [sign1](https://opengameart.org/content/signpost-32px)
