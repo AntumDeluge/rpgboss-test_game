@@ -4,3 +4,6 @@ CC0:
   - [buddha statues](https://opengameart.org/content/buddha-statues-16x16)
 - animals-cc0:
   - [winter birds](https://opengameart.org/content/winter-birds)
+- building-cc0:
+  - [houseblocks](https://opengameart.org/content/houseblocks)
+  - [columns](https://opengameart.org/content/columns-scraps)
