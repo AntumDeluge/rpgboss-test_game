@@ -4,7 +4,7 @@
   "xSize":50,
   "ySize":50,
   "tilesets":[
-    "PathAndObjects.png"
+    "market.png"
   ],
   "autotiles":[
     "sys/Refmap-A1-0-0-A.png",
