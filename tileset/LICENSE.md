@@ -21,3 +21,8 @@ CC0:
   - [spikes1](https://opengameart.org/content/spikes-0)
 - stone-cc0:
   - [stone1](https://opengameart.org/content/tiles-3)
+- trees-cc0:
+  - [trees1](https://opengameart.org/content/trees-1)
+  - [trees2](https://opengameart.org/content/glitch-groddle-assets-png)
+  - [tree1](https://opengameart.org/content/a-tree)
+  - [tree2](https://opengameart.org/content/pine-tree-16x16)
