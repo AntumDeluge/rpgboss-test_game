@@ -9,3 +9,5 @@ CC0:
   - [columns](https://opengameart.org/content/columns-scraps)
 - doors-cc0:
   - https://opengameart.org/content/doors
+- dungeon-cc0:
+  - https://opengameart.org/content/two-dungeon-wall-tilesets
