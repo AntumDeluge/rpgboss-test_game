@@ -11,3 +11,7 @@ CC0:
   - https://opengameart.org/content/doors
 - dungeon-cc0:
   - https://opengameart.org/content/two-dungeon-wall-tilesets
+- ground-cc0:
+  - [grass1](https://opengameart.org/content/seamless-grass-texture)
+  - [grass2](https://opengameart.org/content/seamless-grass-texture-ii)
+  - [grass3](https://opengameart.org/content/32x32-grass-tile)
