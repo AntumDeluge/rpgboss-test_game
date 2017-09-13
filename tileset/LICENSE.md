@@ -19,3 +19,5 @@ CC0:
   - [sign1](https://opengameart.org/content/signpost-32px)
 - spikes-cc0:
   - [spikes1](https://opengameart.org/content/spikes-0)
+- stone-cc0:
+  - [stone1](https://opengameart.org/content/tiles-3)
