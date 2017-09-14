@@ -32,5 +32,8 @@ CC0:
   - [tree1](https://opengameart.org/content/a-tree)
   - [tree2](https://opengameart.org/content/pine-tree-16x16)
 
+CC-BY 3.0:
+- [bush_fence](https://opengameart.org/content/bush-fence) by Reemax
+
 CC-BY-SA 3.0:
 - [market](https://opengameart.org/content/rpg-tiles-cobble-stone-paths-town-objects) by Zabin, Daneeklu, Jetrel, Hyptosis, Redshrike, & Bertram
