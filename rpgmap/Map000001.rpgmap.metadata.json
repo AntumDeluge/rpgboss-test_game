@@ -4,7 +4,9 @@
   "xSize":50,
   "ySize":50,
   "tilesets":[
-    "market.png"
+    "ground-cc0.png",
+    "building-cc0.png",
+    "bush_fence.png"
   ],
   "autotiles":[
     "sys/Refmap-A1-0-0-A.png",
@@ -143,7 +145,7 @@
     "volume":1.0,
     "pitch":1.0
   },
-  "editorCenterX":20.28125,
+  "editorCenterX":29.71875,
   "editorCenterY":11.953125,
   "lastGeneratedEventId":1,
   "randomEncounterSettings":{
