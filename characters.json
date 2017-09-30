@@ -1,6 +1,6 @@
 [
   {
-    "name":"Evandrus",
+    "name":"Jordan",
     "subtitle":"Adventurer",
     "description":"An ordinary boy thrust into extraordinary circumstances.",
     "sprite":{
@@ -23,7 +23,7 @@
         "perLevel":100.0
       },
       "mhp":{
-        "base":50.0,
+        "base":100.0,
         "perLevel":10.0
       },
       "mmp":{

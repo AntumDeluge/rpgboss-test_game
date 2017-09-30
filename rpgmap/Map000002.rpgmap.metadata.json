@@ -1,12 +1,14 @@
 {
-  "parent":"",
-  "title":"Forest1",
-  "xSize":50,
-  "ySize":50,
+  "parent":"Map000001.rpgmap",
+  "title":"House1",
+  "xSize":20,
+  "ySize":15,
   "tilesets":[
-    "ground-cc0.png",
-    "building-cc0.png",
-    "bush_fence.png"
+    "sys/Refmap-TileA5.png",
+    "sys/Refmap-TileB.png",
+    "sys/Refmap-TileC.png",
+    "sys/Refmap-TileD.png",
+    "sys/Refmap-TileE.png"
   ],
   "autotiles":[
     "sys/Refmap-A1-0-0-A.png",
@@ -138,16 +140,21 @@
     "sys/Refmap-A4-5-6.png",
     "sys/Refmap-A4-5-7.png"
   ],
-  "interior":false,
+  "interior":true,
+  "music":{
+    "sound":"sys/sean_m_stephens/Town1.mid",
+    "volume":1.0,
+    "pitch":1.0
+  },
   "battleBackground":"sys/Etolier/01sougen.jpg",
   "battleMusic":{
     "sound":"sys/sean_m_stephens/Battle1.mid",
     "volume":1.0,
     "pitch":1.0
   },
-  "editorCenterX":29.71875,
-  "editorCenterY":15.359375,
-  "lastGeneratedEventId":5,
+  "editorCenterX":10.0,
+  "editorCenterY":7.5,
+  "lastGeneratedEventId":2,
   "randomEncounterSettings":{
     "stepsAverage":20,
     "encounters":[

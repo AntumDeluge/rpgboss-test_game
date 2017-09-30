@@ -3,7 +3,11 @@
     "name":"Damaged Sword",
     "desc":"A beginner sword.",
     "effects":[
-      
+      {
+        "keyId":302,
+        "v1":1,
+        "v2":0
+      }
     ],
     "sellable":true,
     "price":100,
@@ -18,7 +22,11 @@
     "name":"Damaged Glove",
     "desc":"A beginner glove",
     "effects":[
-      
+      {
+        "keyId":305,
+        "v1":1,
+        "v2":0
+      }
     ],
     "sellable":true,
     "price":100,
@@ -33,7 +41,11 @@
     "name":"Damaged Pant",
     "desc":"A beginner pant",
     "effects":[
-      
+      {
+        "keyId":305,
+        "v1":1,
+        "v2":0
+      }
     ],
     "sellable":true,
     "price":100,
@@ -48,7 +60,11 @@
     "name":"Damaged Helmet",
     "desc":"A beginner helmet",
     "effects":[
-      
+      {
+        "keyId":305,
+        "v1":1,
+        "v2":0
+      }
     ],
     "sellable":true,
     "price":100,
@@ -63,7 +79,11 @@
     "name":"Damaged Legging",
     "desc":"A beginner legging",
     "effects":[
-      
+      {
+        "keyId":305,
+        "v1":1,
+        "v2":0
+      }
     ],
     "sellable":true,
     "price":100,
@@ -78,7 +98,11 @@
     "name":"Damaged Chestplate",
     "desc":"A beginner chestplate",
     "effects":[
-      
+      {
+        "keyId":305,
+        "v1":2,
+        "v2":0
+      }
     ],
     "sellable":true,
     "price":100,
@@ -93,7 +117,11 @@
     "name":"Damaged Shield",
     "desc":"A beginner shield",
     "effects":[
-      
+      {
+        "keyId":305,
+        "v1":1,
+        "v2":0
+      }
     ],
     "sellable":true,
     "price":100,
@@ -548,17 +576,21 @@
     "equippedAttackSkillId":0
   },
   {
-    "name":"",
-    "desc":"",
+    "name":"Speed Bracelet",
+    "desc":"Increases battle speed",
     "effects":[
-      
+      {
+        "keyId":303,
+        "v1":2,
+        "v2":0
+      }
     ],
     "sellable":true,
-    "price":100,
-    "itemTypeId":0,
+    "price":150,
+    "itemTypeId":2,
     "accessId":0,
     "scopeId":4,
-    "equipType":0,
+    "equipType":4,
     "useOnAttack":false,
     "equippedAttackSkillId":0
   },

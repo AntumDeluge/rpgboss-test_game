@@ -1,12 +1,14 @@
 [
   {
     "name":"Knight",
-    "unarmedAttackSkillId":66,
+    "unarmedAttackSkillId":1,
     "canUseItems":[
       0,
       1,
       5,
       2,
+      32,
+      6,
       3,
       4
     ],
@@ -14,7 +16,10 @@
       
     ],
     "learnedSkills":[
-      
+      {
+        "level":1,
+        "skillId":1
+      }
     ]
   },
   {
