@@ -1,6 +1,6 @@
 {
   "intMap":{
-    "gold":150,
+    "gold":125,
     "gotChest":1,
     "interior":1,
     "menuEnabled":1,
@@ -15,7 +15,7 @@
       1
     ],
     "characterHps":[
-      9
+      100
     ],
     "characterStatusEffects-0":[
       
@@ -50,7 +50,7 @@
       32
     ],
     "characterExps":[
-      240
+      120
     ]
   },
   "stringArrayMap":{
@@ -61,8 +61,8 @@
   "mapLocMap":{
     "playerLoc":{
       "map":"Map000002.rpgmap",
-      "x":8.617391,
-      "y":7.454422
+      "x":8.624452,
+      "y":7.6246486
     }
   },
   "eventStates":[
